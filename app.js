@@ -7,11 +7,11 @@ const lineSpacing = lineWidth / 2;
 
 const backgroundColour = "black";
 
-const colourGuides = "#8A0808";
-const colourHours = "#FA5858";
-const colourMins = "#F79F81";
-const colourSecs = "#F5ECCE";
-const colourMilSecs = "#FBFBEF";
+const colourGuides = "DarkSalmon";
+const colourHours = "LightSlateGrey";
+const colourMins = "#Plum";
+const colourSecs = "Lavender";
+const colourMilSecs = "AliceBlue";
 
 const showGuides = true;
 const showHours = true;
