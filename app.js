@@ -5,11 +5,11 @@ const fps = 250;
 const lineWidth = 10;
 const lineSpacing = lineWidth / 2;
 
-const backgroundColour = "black";
+const backgroundColour = "LightSalmon";
 
 const colourGuides = "DarkSalmon";
 const colourHours = "LightSlateGrey";
-const colourMins = "#Plum";
+const colourMins = "Plum";
 const colourSecs = "Lavender";
 const colourMilSecs = "AliceBlue";
 
