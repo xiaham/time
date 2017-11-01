@@ -5,7 +5,7 @@ const fps = 250;
 const lineWidth = 10;
 const lineSpacing = lineWidth / 2;
 
-const backgroundColour = "grey";
+const backgroundColour = "black";
 
 const colourGuides = "white";
 const colourHours = "cyan";
